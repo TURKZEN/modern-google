@@ -1,8 +1,6 @@
 .header {
   list-style-type: none;
   margin: 10px;
-  overflow: hidden;
-  margin-right: 16px;
   font-family: arial,sans-serif;
   font-size: 13px;
 }
@@ -22,6 +20,11 @@
 .container {
   text-align: center;
   margin: 100px;
+}
+
+.nav-top{
+  margin-left: 93%;
+
 }
 
 .search-area {
