@@ -71,7 +71,6 @@ box-shadow: 0 2px 3px 0 rgba(0,0,0,0.24), 0 2px 5px 0 rgba(0,0,0,0.19);
   display: flex;
   flex: 1;
   flex-wrap: wrap;
-  
 }
 
 .input-area {
@@ -86,6 +85,7 @@ box-shadow: 0 2px 3px 0 rgba(0,0,0,0.24), 0 2px 5px 0 rgba(0,0,0,0.19);
 }
 
 .input {
+  border: 0px;
   margin: 0;
   padding: 0;
   color: rgba(0, 0, 0, 0.87);
@@ -117,6 +117,10 @@ box-shadow: 0 2px 3px 0 rgba(0,0,0,0.24), 0 2px 5px 0 rgba(0,0,0,0.19);
   text-align: center;
   cursor: pointer;
   user-select: none;
+}
+
+.buttons {
+  text-align: center;
 }
 
 .feelinglucky {
