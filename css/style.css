@@ -37,6 +37,7 @@
   margin: 0 auto;
   margin-top: -190px;
   width: 582px;
+  border-radius: 50px;
 }
 
 .search-area:hover {
@@ -96,7 +97,7 @@ box-shadow: 0 2px 3px 0 rgba(0,0,0,0.24), 0 2px 5px 0 rgba(0,0,0,0.19);
   margin-top: -68px;
   font: 16px arial, sans-serif;
   line-height: 34px;
-  width: 530px;
+  width: 472px;
   height: 44px !important;
   text-rendering: auto;
   letter-spacing: normal;
@@ -110,18 +111,32 @@ box-shadow: 0 2px 3px 0 rgba(0,0,0,0.24), 0 2px 5px 0 rgba(0,0,0,0.19);
 }
 
 .googlesearch {
-  margin: 11px 4px;
+  margin: 11px 10px;
   padding: 0 16px;
   line-height: 27px;
   min-width: 54px;
   text-align: center;
   cursor: pointer;
   user-select: none;
+  background-color: #f2f2f2;
+  border: 1px;
+  font-family: Arial, Helvetica, sans-serif;
+  color: #5f6368;
+  font-size: 14px;
+  height: 36px;
+  
+}
+
+.googlesearch:hover{
+  box-shadow: 0 2px 3px 0 rgba(0,0,0,0.24), 0 2px 5px 0 rgba(0,0,0,0.19);
 }
 
 .buttons {
   text-align: center;
+  margin: 20px; 
 }
+
+
 
 .feelinglucky {
   padding: 0 16px;
@@ -130,6 +145,16 @@ box-shadow: 0 2px 3px 0 rgba(0,0,0,0.24), 0 2px 5px 0 rgba(0,0,0,0.19);
   text-align: center;
   cursor: pointer;
   user-select: none;
+  background-color: #f2f2f2;
+  border: 1px;
+  font-family: Arial, Helvetica, sans-serif;
+  color: #5f6368;
+  font-size: 14px;
+  height: 36px;
+}
+
+.feelinglucky:hover{
+  box-shadow: 0 2px 3px 0 rgba(0,0,0,0.24), 0 2px 5px 0 rgba(0,0,0,0.19);
 }
 
 .footer {
