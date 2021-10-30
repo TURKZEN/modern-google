@@ -2,7 +2,7 @@
 
 ![google_logo](https://purepng.com/public/uploads/large/purepng.com-google-logo-2015brandlogobrand-logoiconssymbolslogosgoogle-6815229372333mqrr.png)
 
-![project_screenshots]()
+![project_screenshots](https://i.hizliresim.com/f2cer8j.png)
 
 ## Installation
 
