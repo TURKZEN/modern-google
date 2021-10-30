@@ -1,12 +1,11 @@
 .header {
-  list-style-type: none;
   margin: 10px;
   font-family: arial,sans-serif;
   font-size: 13px;
+  
 }
 
 .headerli a {
-  display: block;
   color: black;
   text-align: center;
   padding: 5px 5px;
@@ -23,7 +22,8 @@
 }
 
 .nav-top{
-  margin-left: 93%;
+  margin-left: 89%;
+  
 
 }
 

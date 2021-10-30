@@ -18,7 +18,7 @@ Projeyi cloneladıktan sonra Visual Studio Code programında açınız.
 
 Linux için:
 ```linux
-cd kodluyoruzilkrepo
+cd modern-google
 code .
 ```
 
